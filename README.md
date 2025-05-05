@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jacck-mcp-ortools-badge.png)](https://mseep.ai/app/jacck-mcp-ortools)
+
 # MCP-ORTools
 
 A Model Context Protocol (MCP) server implementation using Google OR-Tools for constraint solving. Designed for use with Large Language Models through standardized constraint model specification.
